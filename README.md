@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Zinedine 👋🏻
+
+I'm a 20-year-old developer based in France
 
 <!--
 **zinedinechami/zinedinechami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
