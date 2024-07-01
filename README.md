@@ -1,5 +1,5 @@
 ## Hi, I'm Zinedine 👋🏻 
-I'm a 20-year-old developer based in France, I like to build the web with a design-oriented approach.
+I'm a 20-year-old web developer based in France, I like to build for the web with a design-oriented approach.
 
 <!--
 **zinedinechami/zinedinechami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
